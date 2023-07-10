@@ -12,12 +12,6 @@ Clone the project
   git clone https://github.com/jfernandezvil/test_meteogalicia.git
 ```
 
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
 Install dependencies
 
 ```bash
