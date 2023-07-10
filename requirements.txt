@@ -1,0 +1,6 @@
+fastapi==0.74.0
+gunicorn==20.0.4
+pydantic
+starlette
+uvicorn
+requests
